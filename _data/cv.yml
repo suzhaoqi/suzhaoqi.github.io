@@ -11,13 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor
-      institution: Department of Physics, Tsinghua University, Beijing, China
-      year: 2017 - 2023
-      description:
     - title: PhD
       institution: Department of Automation, Tsinghua University, Beijing, China
-      year: 2017
+      year: 2017 - 2023
+      description:
+    - title: Bachelor
+      institution: Department of Physics, Tsinghua University, Beijing, China
+      year: 2013 - 2017
       description:
 
 - title: Honors and Awards
