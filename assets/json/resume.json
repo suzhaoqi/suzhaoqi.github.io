@@ -23,8 +23,8 @@
       "url": "https://www.au.tsinghua.edu.cn/",
       "area": "Control Science and Engineering",
       "studyType": "PhD",
-      "startDate": "2017-09",
-      "endDate": "2023-06",
+      "startDate": "2017",
+      "endDate": "2023",
       "score": "",
       "courses": []
     },
@@ -33,8 +33,8 @@
       "url": "https://www.phys.tsinghua.edu.cn/",
       "area": "Physics",
       "studyType": "Bachelor",
-      "startDate": "2013-09",
-      "endDate": "2017-07",
+      "startDate": "2013",
+      "endDate": "2017",
       "score": "",
       "courses": []
     }
@@ -76,7 +76,8 @@
   ],
   "interests": [
     {
-      "name": "piano"
+      "name": "piano",
+      "certificate": "Level 10 of Chinese Musicians Association Piano Grading Test (中国音乐家协会钢琴十级)"
     }
   ],
   "references": [],
