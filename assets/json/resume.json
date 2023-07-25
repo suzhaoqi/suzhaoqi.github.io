@@ -18,14 +18,16 @@
   },
   "work": [
     {
-      "name": "Department of Automation, Tsinghua University",
+      "name": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
+      "url": "http://www.liuyebin.com/",
       "position": "Postdoctoral researcher",
       "startDate": "2023-07",
       "endDate": ""
     },
     {
       "name": "Tsinghua University",
-      "position": "Teaching assistant for course Data Structure",
+      "url": "https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm",
+      "position": "Teaching assistant for undergraduate course Data Structure",
       "startDate": "2017-09",
       "endDate": "2020-06"
     }
@@ -33,8 +35,8 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Department of Automation, Tsinghua University, Beijing, China",
-      "url": "https://www.au.tsinghua.edu.cn/",
+      "institution": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University, Beijing, China",
+      "url": "http://www.liuyebin.com/",
       "area": "Control Science and Engineering",
       "studyType": "PhD",
       "startDate": "2017-09",
@@ -47,8 +49,8 @@
       "url": "https://www.phys.tsinghua.edu.cn/",
       "area": "Physics",
       "studyType": "Bachelor",
-      "startDate": "201-09",
-      "endDate": "2017-07",
+      "startDate": "2013-09",
+      "endDate": "2017-06",
       "score": "",
       "courses": []
     }
@@ -56,11 +58,13 @@
   "awards": [
     {
       "title": "First-Class Excellent Comprehensive Scholarship of Tsinghua University (2022年清华大学综合优秀奖学金（一等）)",
+      "url": "https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm",
       "date": "2022",
       "awarder": "Tsinghua University"
     },
     {
       "title": "Excellent teaching assistant for online teaching during the epidemic prevention and control period of Tsinghua University (清华大学2019~2020学年度春季学期疫情防控期间在线教学优秀助教)",
+      "url": "https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm",
       "date": "2020",
       "awarder": "Tsinghua University"
     },
@@ -71,6 +75,7 @@
     },
     {
       "title": "First Prize of the 28th Chinese Mathematical Olympiad (第28届中国数学奥林匹克一等奖)",
+      "url": "http://www.cms.org.cn/Home/news/news_details/id/296.html";
       "date": "2013",
       "awarder": "Chinese Mathematical Society"
     }
