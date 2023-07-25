@@ -17,7 +17,18 @@
   },
   "work": [],
   "volunteer": [],
-  "education": [],
+  "education": [
+    {
+      "institution": "Department of Automation, Tsinghua University, Beijing, China",
+      "url": "https://www.au.tsinghua.edu.cn/",
+      "area": "Control Science and Engineering",
+      "studyType": "PhD",
+      "startDate": "2017-09",
+      "endDate": "2023-06",
+      "score": "",
+      "courses": []
+    }
+  ],
   "awards": [],
   "certificates": [],
   "publications": [],
