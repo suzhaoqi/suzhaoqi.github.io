@@ -1,97 +1,50 @@
-- title: General Information
+- title: General Information (bkup)
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Zhaoqi Su 苏肇祺
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st January 1995
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Department of Automation, Tsinghua University, Beijing, China
+      year: 2017 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: Department of Physics, Tsinghua University, Beijing, China
+      year: 2013 - 2017
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - First-Class Excellent Comprehensive Scholarship of Tsinghua University (2022年清华大学综合优秀奖学金（一等）)
+    - year: 2020
       items: 
-        - Max Planck Medal
-
+        - Excellent teaching assistant for online teaching during the epidemic prevention and control period of Tsinghua University (清华大学2019~2020学年度春季学期疫情防控期间在线教学优秀助教)
+    - year: 2013
+      items:
+        - Second-Class Freshmen Scholarship of Tsinghua University (清华大学新生二等奖学金)
+    - year: 2013
+      items:
+        - First Prize of the 28th Chinese Mathematical Olympiad (第28届中国数学奥林匹克一等奖)
+        
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Garment Digitization
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Garment modeling
+        - Garment animation
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> piano - Level 10 of Chinese Musicians Association Piano Grading Test (中国音乐家协会钢琴十级)
