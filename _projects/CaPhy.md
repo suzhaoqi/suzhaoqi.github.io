@@ -16,7 +16,14 @@ related_publications:
 <hr>
 
 <h2 style="text-align:center">Abstract</h2>
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/img/CaPhy/intro.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
