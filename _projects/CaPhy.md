@@ -1,10 +1,11 @@
 ---
 layout: page
-title: CaPhy: Capturing Physical Properties for Animatable Human Avatars
-description: ICCV 2023
+title: "CaPhy: Capturing Physical Properties for Animatable Human Avatars"
+description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 <h1>CaPhy: Capturing Physical Properties for Animatable Human Avatars</h1>
