@@ -2,7 +2,7 @@
 layout: page
 title: "CaPhy: Capturing Physical Properties for Animatable Human Avatars"
 description: <h2>ICCV 2023</h2>
-img: assets/img/12.jpg
+img: assets/img/publication_preview/CaPhy.gif
 importance: 1
 category: work
 related_publications: caphy_su2023
