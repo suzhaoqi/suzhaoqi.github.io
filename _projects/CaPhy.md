@@ -16,49 +16,29 @@ related_publications:
 <hr>
 
 <h2 style="text-align:center">Abstract</h2>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/img/CaPhy/intro.mp4" class="img-fluid rounded z-depth-1" autoplay=true muted=true %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="assets/img/CaPhy/intro.mp4" class="img-fluid rounded z-depth-1" autoplay muted loop %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    CaPhy, a novel method for reconstructing physics-based 3D human avatars from 3D scans.
 </div>
+
+We present CaPhy, a novel method for reconstructing animatable human avatars with realistic dynamic properties for clothing. Specifically, we aim for capturing the geometric and physical properties of the clothing from real observations. This allows us to apply novel poses to the human avatar with physically correct deformations and wrinkles of the clothing. To this end, we combine unsupervised training with physics-based losses and 3D-supervised training using scanned data to reconstruct a dynamic model of clothing that is physically realistic and conforms to the human scans. We also optimize the physical parameters of the underlying physical model from the scans by introducing gradient constraints of the physics-based losses. In contrast to previous work on 3D avatar reconstruction, our method is able to generalize to novel poses with realistic dynamic cloth deformations. Experiments on several subjects demonstrate that our method can estimate the physical properties of the garments, resulting in superior quantitative and qualitative results compared with previous methods.
+
+<hr>
+
+<h2 style="text-align:center">Method</h2>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CaPhy/pipeline.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Given a small set of 3D scans of a subject in different poses, the naked body is reconstructed in terms of shape and pose. Static garment templates for the shirt and pants are reconstructed from the scans which are used in the optimization of the neural garment deformation model. Specifically, we optimize for parameters of our physics-based fabric model based on the 3D scans and train a garment simulation network that predicts the deformations conditioned on the pose. Note that the model is also trained on poses different from the scans using the physical constraints of the fabric model.
 </div>
 
 You can also put regular text between your rows of images.
