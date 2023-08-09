@@ -9,10 +9,6 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
-          <article>
-            {{ content }}
-          </article>
-
           {%- if page.related_publications != null and page.related_publications.size > 0 -%}
           {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
           <h2>References</h2>
@@ -20,5 +16,10 @@ layout: default
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
           </div>
           {%- endif %}
+                
+          <article>
+            {{ content }}
+          </article>
+
 
         </div>
