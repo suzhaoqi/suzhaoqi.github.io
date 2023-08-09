@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<font color="#27E1C1">CaPhy</font>: Capturing Physical Properties for Animatable Human Avatars"
+title: <font color="#27E1C1">CaPhy</font>":" Capturing Physical Properties for Animatable Human Avatars
 description: <h2>ICCV 2023</h2>
 img: assets/img/12.jpg
 importance: 1
