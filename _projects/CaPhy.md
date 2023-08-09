@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CaPhy Homepage
-description: ICCV 2023
+title: CaPhy: Capturing Physical Properties for Animatable Human Avatars
+description: <a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup>
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -10,6 +10,10 @@ related_publications:
 
 <h1>CaPhy: Capturing Physical Properties for Animatable Human Avatars</h1>
   <h2><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup></h2>
+  <h3><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup></h3>
+  <h4><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup></h4>
+  <h5><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup></h5>
+  <h6><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup></h6>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
