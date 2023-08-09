@@ -1,15 +1,17 @@
 ---
 layout: page
-title: <font color="#262A56">CaPhy</font><font color="#262A56">:</font> Capturing Physical Properties for Animatable Human Avatars
+title: "CaPhy: Capturing Physical Properties for Animatable Human Avatars"
 description: <h2>ICCV 2023</h2>
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
-<h3>[Zhaoqi Su](https://suzhaoqi.github.io/), [Liangxiao Hu](https://huliangxiao.github.io/), [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)</h3>
-
+[Zhaoqi Su](https://suzhaoqi.github.io/)<sup>1</sup>, [Liangxiao Hu](https://huliangxiao.github.io/)<sup>2</sup>, [Siyou Lin](https://jsnln.github.io/)<sup>1</sup>, [Hongwen Zhang](https://hongwenzhang.github.io/)<sup>1</sup>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<sup>2</sup>, [Justus Thies](https://justusthies.github.io/)<sup>3</sup>, [Yebin Liu](http://www.liuyebin.com/)<sup>1</sup><br>
+<sup>1</sup>Tsinghua University, Beijing, China<br>
+<sup>2</sup>Harbin Institute of Technology, Weihai, Shandong, China<br>
+<sup>3</sup>Max Planck Institute for Intelligent Systems, Tübingen, Germany</h3>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
