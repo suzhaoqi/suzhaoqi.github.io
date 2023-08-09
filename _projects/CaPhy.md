@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<font color="#262A56">CaPhy</font>: Capturing Physical Properties for Animatable Human Avatars"
+title: <font color="#262A56">CaPhy</font><font color="#262A56">:</font> Capturing Physical Properties for Animatable Human Avatars
 description: <h2>ICCV 2023</h2>
 img: assets/img/12.jpg
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-<h3><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup></h3>
+<h3>[Zhaoqi Su](https://suzhaoqi.github.io/), [Liangxiao Hu](https://huliangxiao.github.io/), [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)</h3>
 
 
 Every project has a beautiful feature showcase page.
