@@ -5,7 +5,7 @@ description: <h2>ICCV 2023</h2>
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: 
+related_publications: caphy_su2023
 ---
 
 [Zhaoqi Su](https://suzhaoqi.github.io/)<sup>1</sup>, [Liangxiao Hu](https://huliangxiao.github.io/)<sup>2</sup>, [Siyou Lin](https://jsnln.github.io/)<sup>1</sup>, [Hongwen Zhang](https://hongwenzhang.github.io/)<sup>1</sup>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<sup>2</sup>, [Justus Thies](https://justusthies.github.io/)<sup>3</sup>, [Yebin Liu](http://www.liuyebin.com/)<sup>1</sup><br>
@@ -86,4 +86,3 @@ We present CaPhy, a novel method for reconstructing animatable human avatars wit
         {% include video.html path="assets/img/CaPhy/CaPhy - demo.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-
