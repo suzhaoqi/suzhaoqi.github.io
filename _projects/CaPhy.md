@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CaPhy: Capturing Physical Properties for Animatable Human Avatars
-description: <a href="https://suzhaoqi.github.io/">Zhaoqi Su</a><sup>1</sup>, <a href="https://ytrock.com/">Tao Yu</a><sup>1</sup>, <a href="https://www.yangangwang.com">Yangang Wang</a><sup>2</sup>, <a href="http://www.liuyebin.com">Yebin Liu</a><sup>1</sup>
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
