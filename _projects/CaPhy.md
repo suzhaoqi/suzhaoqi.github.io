@@ -21,7 +21,7 @@ related_publications: caphy_su2023
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/img/CaPhy/intro.mp4" class="img-fluid rounded z-depth-1" autoplay=true muted=true loop=true %}
+        {% include video.html path="assets/img/CaPhy/intro.mp4" class="img-fluid rounded z-depth-1" autoplay=true muted=true loop=true control=true %}
     </div>
 </div>
 <div class="caption">
