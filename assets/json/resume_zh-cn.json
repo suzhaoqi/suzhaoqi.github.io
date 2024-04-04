@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "苏肇祺",
+    "label": "博士后",
+    "image": "",
+    "email": "suzq13@tsinghua.org.cn",
+    "phone": "",
+    "url": "https://suzhaoqi.github.io/",
+    "summary": "",
+    "location": {
+      "address": "清华大学自动化系，中央主楼825",
+      "postalCode": "",
+      "city": "北京",
+      "countryCode": "CN",
+      "region": ""
+    },
+    "profiles": [
+      // {
+      //   "network": "Twitter",
+      //   "username": "AlbertEinstein",
+      //   "url": "https://twitter.com/AlbertEinstein"
+      // }
+    ]
+  },
+  "work": [
+    {
+      "name": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
+      "position": "Postdoctoral researcher",
+      "url": "http://www.liuyebin.com/",
+      "startDate": "2023-07",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Tsinghua University",
+      "position": "Teaching assistant for undergraduate course Data Structure (part-time)",
+      "url": "",
+      "startDate": "2017-09",
+      "endDate": "2020-06",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
+      "location": "Beijing, China",
+      "url": "http://www.liuyebin.com/",
+      "area": "Control Science and Engineering",
+      "studyType": "PhD",
+      "startDate": "2017-09",
+      "endDate": "2023-06",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Department of Physics, Tsinghua University",
+      "location": "Beijing, China",
+      "url": "https://www.phys.tsinghua.edu.cn/",
+      "area": "Physics",
+      "studyType": "Bachelor",
+      "startDate": "2013-09",
+      "endDate": "2017-06",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "First-Class Excellent Comprehensive Scholarship of Tsinghua University 2022年清华大学综合优秀奖学金（一等）",
+      "date": "2022",
+      "awarder": "Tsinghua University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Excellent teaching assistant in Spring 2020 for online teaching during the epidemic prevention and control period of Tsinghua University 清华大学2019~2020学年度春季学期疫情防控期间在线教学优秀助教",
+      "date": "2020",
+      "awarder": "Tsinghua University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Second-Class Freshmen Scholarship of Tsinghua University 清华大学新生二等奖学金",
+      "date": "2013",
+      "awarder": "Tsinghua University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "First Prize of the 28th Chinese Mathematical Olympiad 第28届中国数学奥林匹克一等奖",
+      "date": "2013",
+      "awarder": "Chinese Mathematical Society",
+      "url": "http://www.cms.org.cn/Home/news/news_details/id/296.html",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "piano",
+      "icon": "",
+      "keywords": [
+        "Level 10 of Chinese Musicians Association Piano Grading Test (中国音乐家协会钢琴十级)"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
