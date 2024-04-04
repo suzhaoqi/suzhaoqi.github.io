@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-14 13:07:00 GMT+8
 inline: true
 related_posts: false
 ---
 
-Um anúncio simples em uma linha.
+Paper "CaPhy: Capturing Physical Properties for Animatable Human Avatars" (1st author) is accepted by ICCV 2023!
