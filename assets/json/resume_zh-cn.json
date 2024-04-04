@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
-      "position": "Postdoctoral researcher",
+      "name": "清华大学自动化系",
+      "position": "博士后",
       "url": "http://www.liuyebin.com/",
       "startDate": "2023-07",
       "endDate": "",
@@ -33,8 +33,8 @@
       "highlights": []
     },
     {
-      "name": "Tsinghua University",
-      "position": "Teaching assistant for undergraduate course Data Structure (part-time)",
+      "name": "清华大学",
+      "position": "数据结构助教（博士期间三助岗位）",
       "url": "",
       "startDate": "2017-09",
       "endDate": "2020-06",
@@ -46,22 +46,22 @@
   ],
   "education": [
     {
-      "institution": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
-      "location": "Beijing, China",
+      "institution": "清华大学自动化系",
+      "location": "中国北京",
       "url": "http://www.liuyebin.com/",
-      "area": "Control Science and Engineering",
-      "studyType": "PhD",
+      "area": "控制科学与工程",
+      "studyType": "博士",
       "startDate": "2017-09",
       "endDate": "2023-06",
       "score": "",
       "courses": []
     },
     {
-      "institution": "Department of Physics, Tsinghua University",
-      "location": "Beijing, China",
+      "institution": "清华大学物理系",
+      "location": "中国北京",
       "url": "https://www.phys.tsinghua.edu.cn/",
-      "area": "Physics",
-      "studyType": "Bachelor",
+      "area": "数理基础科学",
+      "studyType": "本科",
       "startDate": "2013-09",
       "endDate": "2017-06",
       "score": "",
@@ -70,30 +70,30 @@
   ],
   "awards": [
     {
-      "title": "First-Class Excellent Comprehensive Scholarship of Tsinghua University 2022年清华大学综合优秀奖学金（一等）",
+      "title": "2022年清华大学综合优秀奖学金（一等）",
       "date": "2022",
-      "awarder": "Tsinghua University",
+      "awarder": "清华大学",
       "url": "",
       "summary": ""
     },
     {
-      "title": "Excellent teaching assistant in Spring 2020 for online teaching during the epidemic prevention and control period of Tsinghua University 清华大学2019~2020学年度春季学期疫情防控期间在线教学优秀助教",
+      "title": "清华大学2019~2020学年度春季学期疫情防控期间在线教学优秀助教",
       "date": "2020",
-      "awarder": "Tsinghua University",
+      "awarder": "清华大学",
       "url": "",
       "summary": ""
     },
     {
-      "title": "Second-Class Freshmen Scholarship of Tsinghua University 清华大学新生二等奖学金",
+      "title": "清华大学新生二等奖学金",
       "date": "2013",
-      "awarder": "Tsinghua University",
+      "awarder": "清华大学",
       "url": "",
       "summary": ""
     },
     {
-      "title": "First Prize of the 28th Chinese Mathematical Olympiad 第28届中国数学奥林匹克一等奖",
+      "title": "第28届中国数学奥林匹克一等奖",
       "date": "2013",
-      "awarder": "Chinese Mathematical Society",
+      "awarder": "中国数学会",
       "url": "http://www.cms.org.cn/Home/news/news_details/id/296.html",
       "summary": ""
     }
@@ -103,22 +103,22 @@
   "skills": [],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker",
+      "language": "中文",
+      "fluency": "母语",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "英文",
+      "fluency": "熟练",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "piano",
+      "name": "钢琴",
       "icon": "",
       "keywords": [
-        "Level 10 of Chinese Musicians Association Piano Grading Test (中国音乐家协会钢琴十级)"
+        "中国音乐家协会钢琴十级"
       ]
     }
   ],
