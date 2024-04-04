@@ -1,7 +1,7 @@
 ---
 page_id: about
-layout: 首页
-title: about
+layout: about
+title: 首页
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
