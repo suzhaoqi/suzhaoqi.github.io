@@ -1,6 +1,6 @@
 ---
 page_id: about
-layout: about
+layout: 首页
 title: about
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -10,10 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>825, Main building</p>
-    <p>Department of Automation</p>
-    <p>Tsinghua University</p>
-    <p>Beijing, P.R.China</p>
+    <p>清华大学自动化系</p>
+    <p>中央主楼825</p>
 
 news: true # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,8 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Postdoctoral researcher @ 3D Vision and Computational Photography Lab led by [Yebin Liu](http://www.liuyebin.com/) in [Institute for Brain and Cognitive Sciences](http://media.au.tsinghua.edu.cn/index/index/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/).
+本人目前为清华大学自动化系[脑与认知科学研究所](http://media.au.tsinghua.edu.cn/index/index/index.html)博士后，合作导师为[刘烨斌教授](http://www.liuyebin.com/)，所在实验室研究方向为三维视觉与计算摄像。
 
-I received the B.S. degree in the Department of Physics, Tsinghua University, in 2017, and the Ph.D. degree in the Department of Automation, Tsinghua University, in 2023.
-
-My current research interests include computer vision and computer graphics, mainly focusing on 3D garment digitization. 
+本人于2017年在清华大学物理系获得理学学士学位，并于2023年在清华大学自动化系刘烨斌组获得博士学位。本人主要研究方向为计算机视觉和图形学，专注于数字人体衣物相关研究。
