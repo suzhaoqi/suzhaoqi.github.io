@@ -2,7 +2,7 @@
 
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
-Note that throughout the [README.md](README.md) and [CUSTOMIZE.md](CUSTOMIZE.md) files, the default language is English (LANG = en-us). You must have an equivalent file or path for each language you have defined in [\_config.yml](_config.yml). For example, if you have defined `languages: ["en-us", "pt-br"]`, you must have 2 versions of the file `_data/LANG/cv.yml`: [\_data/en-us/cv.yml](_data/en-us/cv.yml) and [\_data/pt-br/cv.yml](_data/pt-br/cv.yml).
+Note that throughout the [README.md](README.md) and [CUSTOMIZE.md](CUSTOMIZE.md) files, the default language is English (LANG = en-us). You must have an equivalent file or path for each language you have defined in [\_config.yml](_config.yml). For example, if you have defined `languages: ["en-us", "zh-cn"]`, you must have 2 versions of the file `_data/LANG/cv.yml`: [\_data/en-us/cv.yml](_data/en-us/cv.yml) and [\_data/zh-cn/cv.yml](_data/zh-cn/cv.yml).
 
 ## Project structure
 
@@ -52,7 +52,7 @@ All changes made to this file are only visible after you rebuild the website. Th
 
 ## Displaying countries flags
 
-To display countries flags instead of the language initials in the header, you can set `country_flag: true` in the [\_config.yml](_config.yml) file. You should also add the countries' svg flags in the [assets/img/flags/](assets/img/flags/) directory. You can find the flags in the [flag-icons repository](https://github.com/lipis/flag-icons/tree/main/flags). When selecting the flags, the code uses the last part (after the `-`) of the site languages. So when looking for the flag of the language `pt-br`, the code will look for the file `br.svg` in the [assets/img/flags/](assets/img/flags/) directory.
+To display countries flags instead of the language initials in the header, you can set `country_flag: true` in the [\_config.yml](_config.yml) file. You should also add the countries' svg flags in the [assets/img/flags/](assets/img/flags/) directory. You can find the flags in the [flag-icons repository](https://github.com/lipis/flag-icons/tree/main/flags). When selecting the flags, the code uses the last part (after the `-`) of the site languages. So when looking for the flag of the language `zh-cn`, the code will look for the file `br.svg` in the [assets/img/flags/](assets/img/flags/) directory.
 
 ![Use country flag instead of language name](readme_preview/country_flag.png)
 
@@ -72,7 +72,7 @@ You can create new pages by adding new Markdown files in the [\_pages](_pages/) 
 
 ## Creating new blog posts
 
-To create a new blog post, you can add a new Markdown file in the [\_posts/LANG/](_posts/en-us/) directory. The [name of the file must follow](https://jekyllrb.com/docs/posts/#creating-posts) the format `YYYY-MM-DD-title.md`. The easiest way to do this is to copy an existing blog post and modify it. Note that some blog posts have optional fields in the [frontmatter](https://jekyllrb.com/docs/front-matter/) that are used to enable specific behaviors or functions.
+To create a new blog post, you can add a new Markdown file in the \_posts/LANG/ directory. The [name of the file must follow](https://jekyllrb.com/docs/posts/#creating-posts) the format `YYYY-MM-DD-title.md`. The easiest way to do this is to copy an existing blog post and modify it. Note that some blog posts have optional fields in the [frontmatter](https://jekyllrb.com/docs/front-matter/) that are used to enable specific behaviors or functions.
 
 If you want to create blog posts that are not ready to be published, but you want to track it with git, you can create a [\_drafts](https://jekyllrb.com/docs/posts/#drafts) directory and store them there.
 
