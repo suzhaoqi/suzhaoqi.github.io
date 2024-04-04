@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Postdoctoral researcher @ 3D Vision and Computational Photography Lab led by [Yebin Liu](http://www.liuyebin.com/) in [Institute for Brain and Cognitive Sciences](http://media.au.tsinghua.edu.cn/index/index/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/).
+Postdoctoral researcher @ 3D Vision and Computational Photography Lab led by [Yebin Liu](http://www.liuyebin.com/) in Institute for Brain and Cognitive Sciences, Department of Automation, [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 I received the B.S. degree in the Department of Physics, Tsinghua University, in 2017, and the Ph.D. degree in the Department of Automation, Tsinghua University, in 2023.
 
