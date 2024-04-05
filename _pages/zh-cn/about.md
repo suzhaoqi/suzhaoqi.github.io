@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>清华大学自动化系</p>
-    <p>中央主楼825</p>
+    <p>北京市海淀区清华大学中央主楼825</p>
 
 news: true # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
