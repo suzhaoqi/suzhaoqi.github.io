@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-论文 "CaPhy: Capturing Physical Properties for Animatable Human Avatars" (第一作者) 被ICCV 2023录用!
+论文 "CaPhy: Capturing Physical Properties for Animatable Human Avatars" (第一作者) 被ICCV 2023录用
