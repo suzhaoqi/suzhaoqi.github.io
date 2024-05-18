@@ -12,11 +12,9 @@
 {% if site.active_lang == 'en-us' %}
   {{ month }}
   , {{year}}
-  # {{ day }}, {{ year }}
 {% elsif site.active_lang == 'pt-br' %}
   {{ day }} de {{ month }}, {{ year }}
 {% else %}
   {{ year }}年
   {{ month }}月
-  # {{ day }}
 {% endif %}
