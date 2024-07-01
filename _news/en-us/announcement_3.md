@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper "LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer" (3st author) is accepted by SIGGRAPH 2024
+Paper "LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer" (3rd author) is accepted by SIGGRAPH 2024
