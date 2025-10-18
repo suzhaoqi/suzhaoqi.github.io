@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "苏肇祺",
-    "label": "博士后",
+    "label": "副教授",
     "image": "",
-    "email": "suzq13@tsinghua.org.cn",
+    "email": "suzhaoqi@fzu.edu.cn",
     "phone": "",
     "url": "https://suzhaoqi.github.io/",
     "summary": "",
     "location": {
-      "address": "清华大学自动化系，中央主楼825",
+      "address": "福州大学物理与信息工程学院",
       "postalCode": "",
-      "city": "北京",
+      "city": "福州",
       "countryCode": "CN",
       "region": ""
     },
@@ -24,11 +24,20 @@
   },
   "work": [
     {
-      "name": "清华大学自动化系",
+      "name": "福州大学物理与信息工程学院",
+      "position": "副教授",
+      "url": "",
+      "startDate": "2025-08",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "清华大学自动化系（三维视觉与计算摄像实验室）",
       "position": "博士后",
       "url": "http://www.liuyebin.com/",
       "startDate": "2023-07",
-      "endDate": "",
+      "endDate": "2025-07",
       "summary": "",
       "highlights": []
     },
@@ -46,7 +55,7 @@
   ],
   "education": [
     {
-      "institution": "清华大学自动化系",
+      "institution": "清华大学自动化系（三维视觉与计算摄像实验室）",
       "location": "中国北京",
       "url": "http://www.liuyebin.com/",
       "area": "控制科学与工程",
@@ -62,8 +71,8 @@
       "url": "https://www.phys.tsinghua.edu.cn/",
       "area": "数理基础科学",
       "studyType": "本科",
-      "startDate": "2013-09",
-      "endDate": "2017-06",
+      "startDate": "2013-08",
+      "endDate": "2017-07",
       "score": "",
       "courses": []
     }

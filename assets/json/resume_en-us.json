@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Zhaoqi Su",
-    "label": "Postdoctoral researcher",
+    "label": "Associate Professor",
     "image": "",
-    "email": "suzq13@tsinghua.org.cn",
+    "email": "suzhaoqi@fzu.edu.cn",
     "phone": "",
     "url": "https://suzhaoqi.github.io/",
     "summary": "",
     "location": {
-      "address": "825, Main building, Department of Automation, Tsinghua University",
+      "address": "College of Physics and Information Engineering, Fuzhou University",
       "postalCode": "",
-      "city": "Beijing",
+      "city": "Fuzhou",
       "countryCode": "CN",
       "region": ""
     },
@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "College of Physics and Information Engineering, Fuzhou University",
+      "position": "Associate Professor",
+      "url": "",
+      "startDate": "2025-08",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
       "position": "Postdoctoral researcher",
       "url": "http://www.liuyebin.com/",
       "startDate": "2023-07",
-      "endDate": "",
+      "endDate": "2025-07",
       "summary": "",
       "highlights": []
     },
@@ -62,8 +71,8 @@
       "url": "https://www.phys.tsinghua.edu.cn/",
       "area": "Physics",
       "studyType": "Bachelor",
-      "startDate": "2013-09",
-      "endDate": "2017-06",
+      "startDate": "2013-08",
+      "endDate": "2017-07",
       "score": "",
       "courses": []
     }
