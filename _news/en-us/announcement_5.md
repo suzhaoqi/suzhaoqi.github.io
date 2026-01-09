@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper "3D Gaussian Parametric Head Model" (4th author) is accepted by ECCV 2024
+Paper "3D Gaussian Parametric Head Model" is accepted by ECCV 2024
