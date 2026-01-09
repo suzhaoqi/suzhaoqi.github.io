@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper "GPHM: Gaussian Parametric Head Model for Monocular Head Avatar Reconstruction" (2rd author) is accepted by IEEE TPAMI
+Paper "GPHM: Gaussian Parametric Head Model for Monocular Head Avatar Reconstruction" (2nd author) is accepted by IEEE TPAMI
