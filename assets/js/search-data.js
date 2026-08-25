@@ -39,7 +39,7 @@ ninja.data = [{
           title: "a post with plotly.js",
         
         description: "this is what included plotly.js code could look like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
@@ -50,7 +50,7 @@ ninja.data = [{
           title: "a post with image galleries",
         
         description: "this is what included image galleries could look like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
@@ -61,7 +61,7 @@ ninja.data = [{
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
@@ -72,7 +72,7 @@ ninja.data = [{
           title: "a post with tabs",
         
         description: "this is what included tabs in a post could look like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2024/tabs/";
@@ -83,7 +83,7 @@ ninja.data = [{
           title: "a post with typograms",
         
         description: "this is what included typograms code could look like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2024/typograms/";
@@ -94,7 +94,7 @@ ninja.data = [{
           title: "a post that can be cited",
         
         description: "this is what a post that can be cited looks like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2024/post-citation/";
@@ -105,7 +105,7 @@ ninja.data = [{
           title: "a post with pseudo code",
         
         description: "this is what included pseudo code could look like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2024/pseudocode/";
@@ -116,7 +116,7 @@ ninja.data = [{
           title: "a post with vega lite",
         
         description: "this is what included vega lite code could look like",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2024/vega-lite/";
@@ -127,7 +127,7 @@ ninja.data = [{
           title: "a post with custom blockquotes",
         
         description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2023/custom-blockquotes/";
@@ -138,7 +138,7 @@ ninja.data = [{
           title: "displaying beautiful tables with Bootstrap Tables",
         
         description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2023/tables/";
@@ -149,7 +149,7 @@ ninja.data = [{
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
@@ -160,7 +160,7 @@ ninja.data = [{
           title: "a post with diagrams",
         
         description: "an example of a blog post with diagrams",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2021/diagrams/";
@@ -171,7 +171,7 @@ ninja.data = [{
           title: "a distill-style blog post",
         
         description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2018/distill/";
@@ -182,7 +182,7 @@ ninja.data = [{
           title: "a post with code",
         
         description: "an example of a blog post with some code",
-        section: "Posts",
+        section: "",
         handler: () => {
           
             window.location.href = "/blog/2015/code/";
@@ -232,32 +232,32 @@ ninja.data = [{
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
-          section: "Projects",handler: () => {
+          section: "",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
+          section: "",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
-          section: "Projects",handler: () => {
+          section: "",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
+          section: "",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
+          section: "",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "projects-caphy-capturing-physical-properties-for-animatable-human-avatars",
           title: 'CaPhy: Capturing Physical Properties for Animatable Human Avatars',
           description: "ICCV 2023",
-          section: "Projects",handler: () => {
+          section: "",handler: () => {
               window.location.href = "/projects/CaPhy/";
             },},{
         id: 'social-email',
