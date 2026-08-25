@@ -8,11 +8,6 @@ nav: false
 nav_order: 4
 ---
 
-<<<<<<< HEAD:_pages/zh-cn/repositories.md
-## GitHub users
-
-=======
->>>>>>> upstream/main:_pages/pt-br/repositories.md
 {% if site.data.repositories.github_users %}
 
 ## Usuários do GitHub
@@ -41,11 +36,6 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-<<<<<<< HEAD:_pages/zh-cn/repositories.md
-## GitHub Repositories
-
-=======
->>>>>>> upstream/main:_pages/pt-br/repositories.md
 {% if site.data.repositories.github_repos %}
 
 ## Repositórios do GitHub

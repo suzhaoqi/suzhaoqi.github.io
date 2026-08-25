@@ -11,24 +11,17 @@
 
 {%- if site.active_lang == 'en-us' -%}
   {{ month }}
-<<<<<<< HEAD
-  , {{year}}
-{% elsif site.active_lang == 'pt-br' %}
-  {{ day }} de {{ month }}, {{ year }}
-{% else %}
-  {{ year }}年
-  {{ month }}
-{% endif %}
-=======
   {{ day }}, {{ year }}
 {%- elsif site.active_lang == 'fr-ca' -%}
   {{ day }}
   {{ month }}, {{ year }}
 {%- elsif site.active_lang == 'pt-br' -%}
   {{ day }} de {{ month }}, {{ year }}
+{%- elsif site.active_lang == 'zh-cn' -%}
+  {{ year }}年
+  {{ month }}
 {%- else -%}
   {{ day }}
   {{ month }}
   {{ year }}
 {%- endif -%}
->>>>>>> upstream/main

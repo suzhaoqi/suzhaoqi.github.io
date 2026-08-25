@@ -2,22 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 title: Zhaoqi Su (苏肇祺)'s Homepage # the website title (if blank, full name will be used instead)
 first_name: Zhaoqi
 middle_name: 
 last_name: Su
-email: suzq13@tsinghua.org.cn
-keywords: # add your own keywords or leave empty
+keywords:  # add your own keywords or leave empty
 icon: cat.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-=======
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
->>>>>>> upstream/main
 
 url: https://suzhaoqi.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -76,51 +66,6 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-<<<<<<< HEAD
-# Social integration
-# -----------------------------------------------------------------------------
-
-blogger_url:  # your blogger URL
-bluesky_url: # your bluesky URL
-dblp_url: # your DBLP profile url
-discord_id: # your discord id (18-digit unique numerical identifier)
-facebook_id: # your facebook id
-flickr_id: # your flickr id
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-instagram_id: # your instagram id
-kaggle_id: # your kaggle id
-keybase_username: # your keybase user name
-lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
-orcid_id: 0000-0003-3651-8373 # your ORCID ID
-osf_id:  # your OSF ID
-pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
-quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: 2a2KUQ0AAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
-spotify_id: # your spotify id
-stackoverflow_id: # your stackoverflow id
-telegram_username: # your Telegram user name
-unsplash_id: # your unsplash id
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # your zotero username
-
-# -----------------------------------------------------------------------------
-=======
->>>>>>> upstream/main
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
@@ -215,19 +160,6 @@ collections:
     # this is needed to avoid adding language here, like /:collection/:lang/:title/
     permalink: /:collection/:title/
 
-<<<<<<< HEAD
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
-=======
->>>>>>> upstream/main
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -446,15 +378,11 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 languages: ["en-us", "zh-cn"]
-=======
-languages: ["en-us", "pt-br", "fr-ca"]
->>>>>>> upstream/main
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
-country_flag: true # set true for allowing flag symbol in language toggle
+country_flag: false # set true for allowing flag symbol in language toggle
 parallel_localization: false
 
 # -----------------------------------------------------------------------------
@@ -744,14 +672,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume_en-us
     json: assets/json/resume_en-us.json # it can also be an url
-<<<<<<< HEAD
   - data: resume_zh-cn
     json: assets/json/resume_zh-cn.json # it can also be an url
-=======
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
-
->>>>>>> upstream/main
 jsonresume:
   - basics
   - work
