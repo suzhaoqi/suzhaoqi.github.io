@@ -26,7 +26,7 @@ citation:
 collections:
   books: books
   posts: posts
-contact_note: You can even add a little note about which of these is the best way to reach you.
+contact_note: # You can even add a little note about which of these is the best way to reach you.
 cv:
   address: Address
   area: Area
@@ -153,8 +153,8 @@ search:
   navigation: Navigation menu
   news: News
   placeholder: Type to start searching
-  posts: Posts
-  projects: Projects
+  # posts: Posts
+  # projects: Projects
   socials: Socials
   system_theme:
     description: Change the theme of the site to System Default

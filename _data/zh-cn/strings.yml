@@ -1,55 +1,32 @@
+archive:
+  prefix: an archive of
+  category_suffix: in this category
+  tag_suffix: with this tag
+  year_suffix: from this year
+bibliography:
+  abstract: Abs
+  awarded: Awarded
+  blog: Blog
+  book_prefix: In
+  code: Code
+  last_author_prefix: and
+  poster: Poster
+  slides: Slides
+  supp: Supp
+  video: Video
+  website: Website
 blog:
   navigation_title: blog
 categories:
   fun: fun
   work: work
+citation:
+  bibtex: "or as a BibTeX entry:"
+  introduction: "If you found this useful, please cite this as:"
+collections:
+  books: books
+  posts: posts
 contact_note: You can even add a little note about which of these is the best way to reach you.
-footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-latest_posts: latest posts
-news: 新闻
-selected_publications: 代表性论著
-site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-archive_category: an archive of posts in this category
-archive_tag: an archive of posts with this tag
-archive_year: an archive of posts from this year
-related_posts:
-  description: "Here are some more articles you might like to read next:"
-  title: Enjoy Reading This Article?
-references: 
-months:
-  long:
-    january: 1月
-    february: 2月
-    march: 3月
-    april: 4月
-    may: 5月
-    june: 6月
-    july: 7月
-    august: 8月
-    september: 9月
-    october: 10月
-    november: 11月
-    december: 12月
-  short:
-    january: 1月
-    february: 2月
-    march: 3月
-    april: 4月
-    may: 5月
-    june: 6月
-    july: 7月
-    august: 8月
-    september: 9月
-    october: 10月
-    november: 11月
-    december: 12月
-no_news: No news so far...
-pagination:
-  newer: Newer
-  older: Older
-  page: page
 cv:
   address: 地址
   area: 领域
@@ -80,8 +57,9 @@ cv:
   network: Network
   organization: Organization
   phone: Phone
-  position: Position
+  position: 职位
   postalCode: Postal Code
+  present: Present
   profiles: Profiles
   projects: Projects
   publications: 论文
@@ -101,3 +79,86 @@ cv:
   username: Username
   volunteer: Volunteer
   work: 工作经历
+footer:
+  copyright: Copyright
+  last_updated: "Last updated:"
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: latest posts
+months:
+  long:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+  short:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+news: 新闻
+newsletter:
+  back: Back
+  error: "Oops! Something went wrong, please try again."
+  subscribe: subscribe
+  subscribed: "You have successfully subscribed to the newsletter."
+  subscribe_to_receive: "Subscribe to be notified of future articles:"
+  too_many_signups: "Too many signups, please try again in a little while"
+  wait: "Please wait..."
+no_news: No news so far...
+no_posts: "No posts so far..."
+pagination:
+  page: page
+post:
+  created_in: Created in
+  created_by: by
+  last_updated: last updated in
+references: References
+related_posts:
+  description: "Here are some more articles you might like to read next:"
+  title: Enjoy Reading This Article?
+search:
+  dark_theme:
+    description: Change the theme of the site to Dark
+    title: Change theme to dark
+  dropdown: Dropdown
+  email: Send an email
+  footer:
+    close: to close
+    navigate: to navigate
+    parent: move to parent
+    select: to select
+  languages: Languages
+  light_theme:
+    description: Change the theme of the site to Light
+    title: Change theme to light
+  navigation: Navigation menu
+  news: 新闻
+  placeholder: Type to start searching
+  # posts: Posts
+  # projects: Projects
+  socials: Socials
+  system_theme:
+    description: Change the theme of the site to System Default
+    title: Use system default theme
+  theme: Theme
+selected_publications: 代表性论著
+site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
