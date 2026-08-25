@@ -20,26 +20,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/zh-cn/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "a simple whitespace theme for academics",
-          section: "",
-          handler: () => {
-            window.location.href = "/zh-cn/blog/";
-          },
-        },{id: "nav-论文",
+  },{id: "nav-论文",
           title: "论文",
           description: "",
           section: "",
           handler: () => {
             window.location.href = "/zh-cn/publications/";
-          },
-        },{id: "nav-projetos",
-          title: "projetos",
-          description: "Uma crescente coleção de seus projetos interessantes.",
-          section: "",
-          handler: () => {
-            window.location.href = "/zh-cn/projects/";
           },
         },{id: "nav-简历",
           title: "简历",
