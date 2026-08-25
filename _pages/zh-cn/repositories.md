@@ -8,9 +8,14 @@ nav: false
 nav_order: 4
 ---
 
+<<<<<<< HEAD:_pages/zh-cn/repositories.md
 ## GitHub users
 
+=======
+>>>>>>> upstream/main:_pages/pt-br/repositories.md
 {% if site.data.repositories.github_users %}
+
+## Usuários do GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
@@ -36,9 +41,14 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
+<<<<<<< HEAD:_pages/zh-cn/repositories.md
 ## GitHub Repositories
 
+=======
+>>>>>>> upstream/main:_pages/pt-br/repositories.md
 {% if site.data.repositories.github_repos %}
+
+## Repositórios do GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
