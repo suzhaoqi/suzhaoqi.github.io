@@ -34,12 +34,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zh-cn/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/zh-cn/books/the_godfather/";
-            },},{id: "news-论文-caphy-capturing-physical-properties-for-animatable-human-avatars-第一作者-被iccv-2023录用",
+        },{id: "news-论文-caphy-capturing-physical-properties-for-animatable-human-avatars-第一作者-被iccv-2023录用",
           title: '论文 “CaPhy: Capturing Physical Properties for Animatable Human Avatars” (第一作者) 被ICCV 2023录用',
           description: "",
           section: "新闻",},{id: "news-获选2023年度国家资助博士后研究人员计划-c档",

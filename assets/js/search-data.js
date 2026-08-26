@@ -34,12 +34,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-caphy-capturing-physical-properties-for-animatable-human-avatars-1st-author-is-accepted-by-iccv-2023",
+        },{id: "news-paper-caphy-capturing-physical-properties-for-animatable-human-avatars-1st-author-is-accepted-by-iccv-2023",
           title: 'Paper “CaPhy: Capturing Physical Properties for Animatable Human Avatars” (1st author) is accepted...',
           description: "",
           section: "News",},{id: "news-sponsered-by-the-postdoctoral-fellowship-program-of-cpsf-c-level",
