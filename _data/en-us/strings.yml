@@ -153,8 +153,8 @@ search:
   navigation: Navigation menu
   news: News
   placeholder: Type to start searching
-  # posts: Posts
-  # projects: Projects
+  posts: Posts
+  projects: Projects
   socials: Socials
   system_theme:
     description: Change the theme of the site to System Default
