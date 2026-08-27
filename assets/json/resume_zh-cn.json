@@ -15,18 +15,13 @@
       "region": ""
     },
     "profiles": [
-      // {
-      //   "network": "Twitter",
-      //   "username": "AlbertEinstein",
-      //   "url": "https://twitter.com/AlbertEinstein"
-      // }
     ]
   },
   "work": [
     {
       "name": "福州大学物理与信息工程学院",
       "position": "副教授",
-      "url": "",
+      //"url": "",
       "startDate": "2025-08",
       "endDate": "",
       "summary": "",
@@ -35,7 +30,7 @@
     {
       "name": "清华大学自动化系（三维视觉与计算摄像实验室）",
       "position": "博士后",
-      "url": "http://www.liuyebin.com/",
+      "url": "",
       "startDate": "2023-07",
       "endDate": "2025-07",
       "summary": "",
@@ -57,7 +52,7 @@
     {
       "institution": "清华大学自动化系（三维视觉与计算摄像实验室）",
       "location": "中国北京",
-      "url": "http://www.liuyebin.com/",
+      "url": "",
       "area": "控制科学与工程",
       "studyType": "博士",
       "startDate": "2017-09",
@@ -68,7 +63,7 @@
     {
       "institution": "清华大学物理系",
       "location": "中国北京",
-      "url": "https://www.phys.tsinghua.edu.cn/",
+      "url": "",
       "area": "数理基础科学",
       "studyType": "本科",
       "startDate": "2013-08",

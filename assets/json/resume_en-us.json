@@ -15,11 +15,6 @@
       "region": ""
     },
     "profiles": [
-      // {
-      //   "network": "Twitter",
-      //   "username": "AlbertEinstein",
-      //   "url": "https://twitter.com/AlbertEinstein"
-      // }
     ]
   },
   "work": [
@@ -35,7 +30,7 @@
     {
       "name": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
       "position": "Postdoctoral researcher",
-      "url": "http://www.liuyebin.com/",
+      "url": "",
       "startDate": "2023-07",
       "endDate": "2025-07",
       "summary": "",
@@ -57,7 +52,7 @@
     {
       "institution": "3D Vision and Computational Photography Lab, Department of Automation, Tsinghua University",
       "location": "Beijing, China",
-      "url": "http://www.liuyebin.com/",
+      "url": "",
       "area": "Control Science and Engineering",
       "studyType": "PhD",
       "startDate": "2017-09",
@@ -68,7 +63,7 @@
     {
       "institution": "Department of Physics, Tsinghua University",
       "location": "Beijing, China",
-      "url": "https://www.phys.tsinghua.edu.cn/",
+      "url": "",
       "area": "Physics",
       "studyType": "Bachelor",
       "startDate": "2013-08",
