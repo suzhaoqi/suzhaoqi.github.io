@@ -16,21 +16,21 @@ const ninja = document.querySelector('ninja-keys');
 ninja.data = [{
     id: "nav-首页",
     title: "首页",
-    section: "Navigation menu",
+    section: "导航菜单",
     handler: () => {
       window.location.href = "/zh-cn/";
     },
   },{id: "nav-论文",
           title: "论文",
           description: "",
-          section: "Navigation menu",
+          section: "导航菜单",
           handler: () => {
             window.location.href = "/zh-cn/publications/";
           },
         },{id: "nav-简历",
           title: "简历",
           description: "",
-          section: "Navigation menu",
+          section: "导航菜单",
           handler: () => {
             window.location.href = "/zh-cn/cv/";
           },
@@ -73,66 +73,66 @@ ninja.data = [{
           section: "新闻",},{id: "projects-caphy-capturing-physical-properties-for-animatable-human-avatars",
           title: 'CaPhy: Capturing Physical Properties for Animatable Human Avatars',
           description: "ICCV 2023",
-          section: "Projects",handler: () => {
+          section: "项目",handler: () => {
               window.location.href = "/zh-cn/projects/CaPhy/";
             },},{
         id: 'social-email',
-        title: 'Send an email',
-        section: 'Socials',
+        title: '发送邮件',
+        section: '个人链接',
         handler: () => {
           window.open("mailto:%73%75%7A%68%61%6F%71%69@%66%7A%75.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
-        section: 'Socials',
+        section: '个人链接',
         handler: () => {
           window.open("https://orcid.org/0000-0003-3651-8373", "_blank");
         },
       },{
         id: 'social-rss',
         title: 'RSS Feed',
-        section: 'Socials',
+        section: '个人链接',
         handler: () => {
           window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
-        section: 'Socials',
+        section: '个人链接',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=2a2KUQ0AAAAJ", "_blank");
         },
       },{
           id: 'lang-en-us',
           title: 'en-us',
-          section: 'Languages',
+          section: '语言',
           handler: () => {
             window.location.href = "" + updatedUrl;
           },
         },{
       id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
+      title: '切换到浅色主题',
+      description: '切换到浅色网页主题',
+      section: '主题',
       handler: () => {
         setThemeSetting("light");
       },
     },
     {
       id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
+      title: '切换到暗色主题',
+      description: '切换到暗色网页主题',
+      section: '主题',
       handler: () => {
         setThemeSetting("dark");
       },
     },
     {
       id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
+      title: '切换到系统默认主题色',
+      description: '切换到系统默认网页主题色',
+      section: '主题',
       handler: () => {
         setThemeSetting("system");
       },
