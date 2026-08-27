@@ -137,28 +137,28 @@ related_posts:
   title: Enjoy Reading This Article?
 search:
   dark_theme:
-    description: Change the theme of the site to Dark
-    title: Change theme to dark
-  dropdown: Dropdown
-  email: Send an email
+    description: 切换到暗色网页主题
+    title: 切换到暗色主题
+  dropdown: 下拉菜单
+  email: 发送邮件
   footer:
-    close: to close
-    navigate: to navigate
-    parent: move to parent
-    select: to select
-  languages: Languages
+    close: 关闭
+    navigate: 导航
+    parent: 移动到上一级
+    select: 选择
+  languages: 语言
   light_theme:
-    description: Change the theme of the site to Light
-    title: Change theme to light
-  navigation: Navigation menu
+    description: 切换到浅色网页主题
+    title: 切换到浅色主题
+  navigation: 导航菜单
   news: 新闻
-  placeholder: Type to start searching
-  posts: Posts
-  projects: Projects
-  socials: Socials
+  placeholder: 输入搜索
+  posts: 博客
+  projects: 项目
+  socials: 个人链接
   system_theme:
-    description: Change the theme of the site to System Default
-    title: Use system default theme
-  theme: Theme
+    description: 切换到系统默认网页主题色
+    title: 切换到系统默认主题色
+  theme: 主题
 selected_publications: 代表性论著
-site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+site_description: 一个简单的学术主题，基于 [*folio](https://github.com/bogoli/-folio) 设计。
