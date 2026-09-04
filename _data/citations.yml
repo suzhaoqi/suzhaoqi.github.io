@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-04'
 papers:
+  2a2KUQ0AAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling'
+    year: '2026'
   2a2KUQ0AAAAJ:2osOgNQ5qMEC:
     citations: 98
     title: 'Deepcloth: Neural garment representation for shape and style editing'
@@ -14,13 +18,9 @@ papers:
     title: 'Mulaycap: Multi-layer human performance capture using a monocular video camera'
     year: '2022'
   2a2KUQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 12
+    citations: 13
     title: 'Semanticsplat: Feed-forward 3d scene understanding with language-aware gaussian fields'
     year: '2025'
-  2a2KUQ0AAAAJ:Se3iqnhoufwC:
-    citations: 0
-    title: 'ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling'
-    year: '2026'
   2a2KUQ0AAAAJ:UebtZRa9Y70C:
     citations: 2
     title: 'YDCNet: YCbCr and Depth-Aware Collaborative Approach for Remote Sensing Image Dehazing'
