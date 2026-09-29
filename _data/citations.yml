@@ -1,28 +1,32 @@
 metadata:
-  last_updated: '2026-09-04'
+  last_updated: '2026-09-29'
 papers:
   2a2KUQ0AAAAJ:0EnyYjriUFMC:
     citations: 0
     title: 'ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling'
     year: '2026'
   2a2KUQ0AAAAJ:2osOgNQ5qMEC:
-    citations: 98
+    citations: 99
     title: 'Deepcloth: Neural garment representation for shape and style editing'
     year: '2023'
+  2a2KUQ0AAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting
+    year: '2026'
   2a2KUQ0AAAAJ:9yKSN-GCB0IC:
     citations: 3
     title: View synthesis from multi-view RGB data using multilayered representation and volumetric estimation
     year: '2020'
   2a2KUQ0AAAAJ:IjCSPb-OGe4C:
-    citations: 43
+    citations: 44
     title: 'Mulaycap: Multi-layer human performance capture using a monocular video camera'
     year: '2022'
   2a2KUQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 13
+    citations: 16
     title: 'Semanticsplat: Feed-forward 3d scene understanding with language-aware gaussian fields'
     year: '2025'
   2a2KUQ0AAAAJ:UebtZRa9Y70C:
-    citations: 2
+    citations: 4
     title: 'YDCNet: YCbCr and Depth-Aware Collaborative Approach for Remote Sensing Image Dehazing'
     year: '2026'
   2a2KUQ0AAAAJ:W7OEmFMy1HYC:
@@ -46,7 +50,7 @@ papers:
     title: 'From Stars to Waves: Non-deterministic Inference of Microlensed Gravitational Waves'
     year: '2025'
   2a2KUQ0AAAAJ:u-x6o8ySG0sC:
-    citations: 62
+    citations: 63
     title: Towards fully mobile 3D face, body, and environment capture using only head-worn cameras
     year: '2018'
   2a2KUQ0AAAAJ:u5HHmVD_uO8C:
@@ -54,6 +58,6 @@ papers:
     title: 'Bodyfusion: Real-time capture of human motion and surface geometry using a single depth camera'
     year: '2017'
   2a2KUQ0AAAAJ:ufrVoPGSRksC:
-    citations: 14
+    citations: 16
     title: 'Gphm: Gaussian parametric head model for monocular head avatar reconstruction'
     year: '2025'
