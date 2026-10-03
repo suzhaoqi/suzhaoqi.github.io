@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-29'
+  last_updated: '2026-10-03'
 papers:
   2a2KUQ0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting
     year: '2026'
+  2a2KUQ0AAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: 'D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction'
+    year: '2026'
   2a2KUQ0AAAAJ:9yKSN-GCB0IC:
     citations: 3
     title: View synthesis from multi-view RGB data using multilayered representation and volumetric estimation
@@ -25,6 +29,10 @@ papers:
     citations: 16
     title: 'Semanticsplat: Feed-forward 3d scene understanding with language-aware gaussian fields'
     year: '2025'
+  2a2KUQ0AAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: 'From stars to waves: Stochastic inference of microlensed gravitational waves'
+    year: '2026'
   2a2KUQ0AAAAJ:UebtZRa9Y70C:
     citations: 4
     title: 'YDCNet: YCbCr and Depth-Aware Collaborative Approach for Remote Sensing Image Dehazing'
@@ -45,10 +53,6 @@ papers:
     citations: 37
     title: 3d gaussian parametric head model
     year: '2024'
-  2a2KUQ0AAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: 'From Stars to Waves: Non-deterministic Inference of Microlensed Gravitational Waves'
-    year: '2025'
   2a2KUQ0AAAAJ:u-x6o8ySG0sC:
     citations: 63
     title: Towards fully mobile 3D face, body, and environment capture using only head-worn cameras
