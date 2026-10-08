@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-10-03'
+  last_updated: '2026-10-08'
 papers:
   2a2KUQ0AAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: 'ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling'
     year: '2026'
   2a2KUQ0AAAAJ:2osOgNQ5qMEC:
