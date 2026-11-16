@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper "High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting" (1rd author) is accepted by IEEE MLMC 2026
+Paper "High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting" (1st author) is accepted by IEEE MLMC 2026
