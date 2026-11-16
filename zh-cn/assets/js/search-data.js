@@ -62,7 +62,7 @@ ninja.data = [{
           title: '论文 “YDCNet: YCbCr and Depth-Aware Collaborative Approach for Remote Sensing Image Dehazing” 被IEEE...',
           description: "",
           section: "新闻",},{id: "news-论文-high-fidelity-text-controllable-3d-digital-human-generation-via-3d-gaussian-splatting-第一作者-被ieee-mlmc-2026录用",
-          title: '论文”High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting” (第一作者) 被IEEE MLMC...',
+          title: '论文 “High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting” (第一作者) 被IEEE...',
           description: "",
           section: "新闻",},{id: "news-论文-semanticsplat-feed-forward-3d-scene-understanding-with-language-aware-gaussian-fields-被cvmj录用",
           title: '论文 “SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields” 被CVMJ录用',
