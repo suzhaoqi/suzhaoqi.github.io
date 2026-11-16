@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-10-08'
+  last_updated: '2026-11-16'
 papers:
   2a2KUQ0AAAAJ:0EnyYjriUFMC:
-    citations: 1
+    citations: 2
     title: 'ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling'
     year: '2026'
   2a2KUQ0AAAAJ:2osOgNQ5qMEC:
-    citations: 99
+    citations: 102
     title: 'Deepcloth: Neural garment representation for shape and style editing'
     year: '2023'
+  2a2KUQ0AAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: 'SFDS-DETR: Spatial-frequency directional synergy for small object detection in aerial images'
+    year: '2026'
   2a2KUQ0AAAAJ:5nxA0vEk-isC:
     citations: 0
     title: High-Fidelity Text-Controllable 3D Digital Human Generation via 3D Gaussian Splatting
@@ -18,15 +22,15 @@ papers:
     title: 'D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction'
     year: '2026'
   2a2KUQ0AAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: View synthesis from multi-view RGB data using multilayered representation and volumetric estimation
     year: '2020'
   2a2KUQ0AAAAJ:IjCSPb-OGe4C:
-    citations: 44
+    citations: 46
     title: 'Mulaycap: Multi-layer human performance capture using a monocular video camera'
     year: '2022'
   2a2KUQ0AAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 18
     title: 'Semanticsplat: Feed-forward 3d scene understanding with language-aware gaussian fields'
     year: '2025'
   2a2KUQ0AAAAJ:MXK_kJrjxJIC:
@@ -38,7 +42,7 @@ papers:
     title: 'YDCNet: YCbCr and Depth-Aware Collaborative Approach for Remote Sensing Image Dehazing'
     year: '2026'
   2a2KUQ0AAAAJ:W7OEmFMy1HYC:
-    citations: 48
+    citations: 49
     title: 'Layga: Layered gaussian avatars for animatable clothing transfer'
     year: '2024'
   2a2KUQ0AAAAJ:Y0pCki6q_DkC:
@@ -50,7 +54,7 @@ papers:
     title: 'Parametric gaussian human model: Generalizable prior for efficient and realistic human avatar modeling'
     year: '2026'
   2a2KUQ0AAAAJ:eQOLeE2rZwMC:
-    citations: 37
+    citations: 39
     title: 3d gaussian parametric head model
     year: '2024'
   2a2KUQ0AAAAJ:u-x6o8ySG0sC:
@@ -58,10 +62,10 @@ papers:
     title: Towards fully mobile 3D face, body, and environment capture using only head-worn cameras
     year: '2018'
   2a2KUQ0AAAAJ:u5HHmVD_uO8C:
-    citations: 215
+    citations: 219
     title: 'Bodyfusion: Real-time capture of human motion and surface geometry using a single depth camera'
     year: '2017'
   2a2KUQ0AAAAJ:ufrVoPGSRksC:
-    citations: 16
+    citations: 19
     title: 'Gphm: Gaussian parametric head model for monocular head avatar reconstruction'
     year: '2025'
