@@ -7,7 +7,7 @@ first_name: Zhaoqi
 middle_name: 
 last_name: Su
 keywords:  # add your own keywords or leave empty
-icon: cat.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: cat.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://suzhaoqi.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
